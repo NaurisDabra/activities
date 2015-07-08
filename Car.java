@@ -3,6 +3,7 @@ package sef.module3.activity;
 import java.util.Date;
 
 public class Car {
+	
 float weight;
 float size;
 int wheelNumber;
@@ -20,7 +21,6 @@ float maxSpeed;
 float mpg;
 public void driving(){}
 public void getSafety(){}
-public void getAutomaticSystems(){}
-public void fuel(Fuel fuel);
-class Fuel{};
+public void AutomaticSystems(){}
+
 }

@@ -16,5 +16,5 @@ public void beingEvil(){}*/
 public void setFood(){}
 public void mating(){}
 public void givingBirth(){}
-
+class Food{}
 }

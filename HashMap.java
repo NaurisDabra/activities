@@ -14,6 +14,7 @@ public class HashMap {
 				table.put(i, i * 11 + j);
 			}
 		}
+		
 
 		for (int i = 0; i < table.table.size(); i++)
 			table.table.get(i).print();
